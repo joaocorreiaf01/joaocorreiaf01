@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Guilherme, tenho 23 anos e sou estudante de Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE). Estou em formação como desenvolvedor Full Stack e, atualmente, tenho proficiência em JavaScript e Python, além de sólidos conhecimentos em HTML5 e CSS3. Entre minhas principais soft skills, destaco a forte capacidade de comunicação e o trabalho em equipe, que me permitem atuar de forma colaborativa e eficiente em squads e ambientes multidisciplinares.
+Me chamo João Guilherme, tenho 23 anos e sou estudante de Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE). Estou em formação como desenvolvedor Front-end e, atualmente, tenho proficiência em HTML, CSS, JavaScript, Typescript. Entre minhas principais soft skills, destaco a forte capacidade de comunicação e o trabalho em equipe, que me permitem atuar de forma colaborativa e eficiente em squads e ambientes multidisciplinares.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joão-guilherme-123924207">
