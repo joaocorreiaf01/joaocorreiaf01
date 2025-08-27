@@ -31,7 +31,7 @@ Me chamo João Guilherme, tenho 23 anos e sou estudante de Bacharelado em Sistem
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
 />
 <img 
     align="left" 
