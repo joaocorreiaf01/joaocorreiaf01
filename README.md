@@ -2,7 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Guilherme, tenho 23 anos e sou estudante de Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE). Estou em formação como desenvolvedor Front-end e, atualmente, tenho proficiência em TypeScript, JavaScript, React, além de HTML5 e CSS3. Entre minhas principais soft skills, destaco a forte capacidade de comunicação e o trabalho em equipe, que me permitem atuar de forma colaborativa e eficiente em squads e ambientes multidisciplinares.
+I am an Implementation Analyst specializing in workflow automation, system integrations, and interactive dashboard development designed to turn raw data into actionable insights.
+
+My technical experience includes building end-to-end integration flows using n8n and inbound webhooks, seamlessly connecting CRMs like Bitrix24 with tools such as Excel to optimize business operations.
+
+To complement my technical background, I actively apply Agile methodologies (Scrum and Kanban) to drive efficient project delivery and continuous workflow improvement.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joão-guilherme-123924207">
