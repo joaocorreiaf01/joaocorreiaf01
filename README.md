@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 João Guilherme
 
-**`Desenvolvedor FullStack`**
+**`Implementation & Development Analyst`**
 
 I am an Implementation Analyst specializing in workflow automation, system integrations, and interactive dashboard development designed to turn raw data into actionable insights.
 
